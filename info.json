@@ -1,0 +1,11 @@
+{
+  "name": "InfiniteLaboratorySpeed",
+  "version": "1.0.0",
+  "title": "InfiniteLaboratorySpeed",
+  "author": "Monogkatten",
+  "contact": "",
+  "homepage": "",
+  "factorio_version" : "0.16",
+  "description": "It is now possible to research laboratory speed infinitely",
+  "dependencies": ["base >= 0.16.0"]
+}
