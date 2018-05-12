@@ -15,7 +15,7 @@ data:extend(
 	  prerequisites = {"research-speed-6"},
 	  unit =
 	  {
-	 	count_formula = "8000*L",
+	 	count_formula = "8000*(L-6)",
 		ingredients =
 		{
 		  {"science-pack-1", 1},
