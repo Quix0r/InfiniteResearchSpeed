@@ -4,3 +4,21 @@ Date: 2021-02-01
   Features:
     - Bump factorio version to 1.1
     - Fix research icon size
+
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2020-03-07
+  Features:
+    - Bump factorio version to 0.18
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2019-03-16
+  Features:
+    - Bump factorio version to 0.17
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2018-05-12
+  Features:
+    - Initial version: allow infinite lab speed research
