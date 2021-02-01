@@ -3,7 +3,7 @@ data:extend(
 	{
 	  type = "technology",
 	  name = "research-speed-7",
-	  icon_size = 128,
+	  icon_size = 256,
 	  icon = "__base__/graphics/technology/research-speed.png",
 	  effects =
 	  {
