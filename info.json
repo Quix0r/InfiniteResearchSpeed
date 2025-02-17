@@ -1,11 +1,11 @@
 {
-  "name": "InfiniteLaboratorySpeed",
-  "version": "1.2.1",
-  "title": "InfiniteLaboratorySpeed",
-  "author": "Mongokatten",
-  "contact": "https://github.com/Mongokatten/InfiniteResearchSpeed/issues/",
-  "homepage": "https://github.com/Mongokatten/InfiniteResearchSpeed/",
-  "factorio_version" : "1.1",
+  "name": "InfiniteLaboratorySpeedUpdated",
+  "version": "1.2.2",
+  "title": "Infinite Laboratory Speed 2.0",
+  "author": "roland77, Mongokatten",
+  "contact": "https://github.com/AngledLuffa/InfiniteResearchSpeed/issues/",
+  "homepage": "https://github.com/AngledLuffa/InfiniteResearchSpeed/",
+  "factorio_version" : "2.0",
   "description": "It is now possible to research laboratory speed infinitely",
-  "dependencies": ["base >= 1.1.0"]
+  "dependencies": ["base >= 2.0"]
 }

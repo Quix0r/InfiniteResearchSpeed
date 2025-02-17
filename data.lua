@@ -12,7 +12,7 @@ data:extend(
 		  modifier = 0.6
 		}
 	  },
-	  prerequisites = {"research-speed-6"},
+	  prerequisites = {"research-speed-6", "space-science-pack"},
 	  unit =
 	  {
 	 	count_formula = "8000*(L-6)",
@@ -31,5 +31,4 @@ data:extend(
 	  max_level = "infinite",
 	  order = "c-m-d"
 	},
-}
-)
+})
